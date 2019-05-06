@@ -1,6 +1,6 @@
 {
   "name": "@digitalrelab/semantic-release-plugin-decorators",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "main": "src/index.js",
   "repository": "git@github.com:digitalrelab/semantic-release-plugin-decorators.git",
   "scripts": {
